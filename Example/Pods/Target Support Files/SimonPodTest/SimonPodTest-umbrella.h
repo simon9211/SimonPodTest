@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "testfile.h"
 
 FOUNDATION_EXPORT double SimonPodTestVersionNumber;
 FOUNDATION_EXPORT const unsigned char SimonPodTestVersionString[];

@@ -20,7 +20,7 @@ PODS:
   - AFNetworking/UIKit (2.6.3):
     - AFNetworking/NSURLConnection
     - AFNetworking/NSURLSession
-  - SimonPodTest (0.1.0):
+  - SimonPodTest (0.1.1):
     - AFNetworking (~> 2.3)
 
 DEPENDENCIES:
@@ -36,7 +36,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
-  SimonPodTest: ee00fb94745d280e03dcddad6bd8a3b27fe92696
+  SimonPodTest: 331eb210bcec3534cadab44141f30fc82ae30084
 
 PODFILE CHECKSUM: 9ee4d7390954ba8d1a7b3fae937b3d6038ae270c
 

@@ -1,6 +1,6 @@
 {
   "name": "SimonPodTest",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A short description of SimonPodTest.",
   "homepage": "https://github.com/simon9211/SimonPodTest",
   "license": {
@@ -12,7 +12,7 @@
   },
   "source": {
     "git": "https://github.com/simon9211/SimonPodTest.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"
